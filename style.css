@@ -1,0 +1,93 @@
+body{
+    background-color: #d8334a;
+}
+main{
+    background-color: #ed4158;
+    padding: 15px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    max-width: 960px;
+    margin: 0 auto;
+    text-align: justify;
+}
+main h2{
+    text-align: center;
+}
+
+
+header{
+    text-align: justify;
+    background: linear-gradient(to right, #eb0928,  #c3baba(165, 156, 154) );
+    text-align: center;
+    padding: 28px ;
+    border: solid;
+    border: #1e1e1e;
+}
+
+header h2{
+  text-align: justify;
+}
+
+header h1{
+    
+    font-size: 2.5rem;
+}
+
+.pad{
+    padding: 10px;
+    
+}
+table {
+    width: 100%;
+    background-color: #c3baba;
+    
+  }
+  
+  
+  th, td {
+    border: 1px solid #ccc;
+    padding: 12px;
+    text-align: left;
+  }
+  
+  
+  th {
+    background-color: #caf0f8;
+    color: #1e1e1e;
+  }
+   table img {
+    width: 100%;
+    max-width: 350px;
+    margin: 1px auto;
+    display: block;
+  } 
+
+  footer{
+    background: linear-gradient(to right,#ff0000, #f0ecec  );
+    text-align: center;
+    text-align: justify;
+  }
+  
+.botao{
+    border: solid 1px rgb(0, 0, 0);
+    border-radius: 20px;
+    color: rgb(255, 0, 0);
+    background-color: white;
+    transition: background-color 0.5s ease, color 0.5s ease, transform 0.5s ease;
+}
+.botao:hover{
+    background-color: rgb(255, 0, 0);
+    color: white;
+    transform: scale(1.8)
+}
+
+.vava{
+  text-align: left;
+  border: solid;
+  border-color: black;
+  text-align: justify;
+}
+
+.novo{
+  width: 60%;
+}
+
